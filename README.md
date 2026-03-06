@@ -70,7 +70,7 @@ Or view the live dashboard here:
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard Preview](
 
 ---
 
