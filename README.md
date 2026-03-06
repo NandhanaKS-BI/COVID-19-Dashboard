@@ -70,7 +70,7 @@ Or view the live dashboard here:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](
+![Dashboard Preview](COVID-19%20Dashboard.jpg)
 
 ---
 
